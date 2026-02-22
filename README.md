@@ -9,22 +9,24 @@ Neofetch is a system specification display tool that displays it visually and be
 * Batch is installed alongside PowerShell so it can run in most terminals, if this is not something you want, you can delete the file.
 
 # To get started, first select your Operating System and install method.
-Then, run it as root or with admistrative permissions
+Then, run it as root or with administrative permissions
 
 <details>
   <summary>🪟 Windows</summary>
   Install via command-line:
-  `irm https://github.com/ShadowPlayzDev/neofetch/raw/main/dist/windows-ps/install.ps1 | iex`
-  * [Install via PowerShell (.ps1)](https://github.com/ShadowPlayzDev/neofetch/raw/main/dist/windows-ps/install.ps1)
+  `irm https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/main/dist/win-ps/install.ps1 | iex`
+  * [Install via PowerShell (.ps1)](https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/main/win-ps/install.ps1)
+
+  Installer Hash: `CF593132B1933E6BBDA3A73EDF7CD1F57CEF6E16AECB9D09ADA7A484323B7491`
 </details>
 
 <details>
   <summary>🐧 Linux</summary>
   * Install via command-line:
-  ```curl -sL https://github.com/ShadowPlayzDev/neofetch/raw/main/dist/linux-sh/install.sh | sudo bash```
-  * [Install via Bash (.sh)](https://github.com/ShadowPlayzDev/neofetch/raw/main/dist/linux-sh/install.sh)
+  ```curl -sL https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/main/linux-sh/install.sh| sudo bash```
+  * [Install via Bash (.sh)](https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/main/install.sh)
 </details>
 
-Once it is done installing, it will place the script in your system's PATH or something similar so you can type "neofetch" anywhere and it'll run
+Once it is done installing, it will place the script in your system's PATH or something similar so you can type "neofetch" anywhere and it'll run.
 To add a visual icon, download one of the icons located [here](https://github.com/ShadowPlayzDev/neofetch/tree/main/logos)
 Make sure to place it where installed and edit the config to include the logo you want!
