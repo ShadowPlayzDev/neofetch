@@ -13,7 +13,7 @@ Then, run it as root or with admistrative permissions
 
 <details>
   <summary>🪟 Windows</summary>
-  * Install via command-line:
+  Install via command-line:
   `irm https://github.com/ShadowPlayzDev/neofetch/raw/main/dist/windows-ps/install.ps1 | iex`
   * [Install via PowerShell (.ps1)](https://github.com/ShadowPlayzDev/neofetch/raw/main/dist/windows-ps/install.ps1)
 </details>
