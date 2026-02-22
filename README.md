@@ -1,7 +1,5 @@
-<div align="center">
-# Neofetch
-Neofetch is a system specification display tool that displays it visually and beautifully. Built with PowerShell, Batch, and Bash, it works on any PC!
-</div>
+<div align=center font-size=20>Neofetch</div>
+<div align="center">Neofetch is a system specification display tool that displays it visually and beautifully. Built with PowerShell, Batch, and Bash, it works on any PC!</div>
 
 ## Neofetch is tested and working on:
 * [X] **Windows/PowerShell**
@@ -14,7 +12,7 @@ Neofetch is a system specification display tool that displays it visually and be
 
 ---
 
-# To get started, first select your Operating System and install method.
+### To get started, first select your Operating System and install method.
 Then, run it as root or with administrative permissions.
 
 <details>
