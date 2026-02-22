@@ -3,9 +3,10 @@ Neofetch is a system specification display tool that displays it visually and be
 
 ## Neofetch is tested and working on:
 [X] Windows/PowerShell
-[X] Windows/Batch  <sup><sub>Requires PowerShell</sub></sup>
+[X] Windows/Batch
 [ ] Linux/Bash
 [ ] MacOS/Bash
+* Batch is installed alongside PowerShell so it can run in most terminals, if this is not something you want, you can delete the file.
 
 # To get started, first select your Operating System and install method.
 Then, run it as root or with admistrative permissions
