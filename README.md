@@ -19,9 +19,9 @@ Then, run it as root or with administrative permissions.
   <summary><h3>🪟 Windows</h3></summary>
   
   Install via command-line:
-  <pre><code>irm https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/main/win-ps/install.ps1 | iex</code></pre>
+  <pre><code>irm https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/refs/head/main/dist/win-ps/install.ps1 | iex</code></pre>
 
-  * **[Install via PowerShell (.ps1)](https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/main/win-ps/install.ps1)**
+  * **[Install via PowerShell (.ps1)](https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/refs/head/main/dist/win-ps/install.ps1)**
 
   **Installer Hash:** `CF593132B1933E6BBDA3A73EDF7CD1F57CEF6E16AECB9D09ADA7A484323B7491`
 </details>
