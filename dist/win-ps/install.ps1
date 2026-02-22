@@ -21,7 +21,7 @@ if (Test-Path $installRoot) {
 New-Item -ItemType Directory -Path $installRoot -Force
 New-Item -ItemType Directory -Path (Join-Path $installRoot "logos") -Force
 
-$files = @("fetch.ps1", "fetch.bat", "textart.cfg")
+$files = @("neofetch.ps1", "neofetch.bat", "textart.cfg")
 
 foreach ($file in $files) {
     $url = "$repoBase/$file"
