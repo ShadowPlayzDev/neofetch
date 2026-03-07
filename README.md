@@ -23,7 +23,7 @@ Then, run it as root or with administrative permissions.
 
   * **[Install via PowerShell (.ps1)](https://raw.githubusercontent.com/ShadowPlayzDev/neofetch/refs/head/main/dist/win-ps/install.ps1)**
 
-  **Installer Hash:** `CF593132B1933E6BBDA3A73EDF7CD1F57CEF6E16AECB9D09ADA7A484323B7491`
+  **Installer Hash:** `1B009CECE1EAD0145A23634E91579C481BBC6A3DAC07D5324FB686086726B0AC`
 </details>
 
 <details>
